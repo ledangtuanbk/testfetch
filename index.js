@@ -56,8 +56,8 @@ const transporter = createTransport({
     host: 'smtp.gmail.com',
     port: 587,
     auth: {
-        user: 'tuanldtest',
-        pass: 'Pointex@12345'
+        user: '',
+        pass: ''
     }
 });
 
